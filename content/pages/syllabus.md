@@ -59,32 +59,323 @@ Plagiarism--the use of another's intellectual work without acknowledgement--is a
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Why metrics matter: the medium is the message  {{< br >}}  {{< br >}}Why English counts patterns of emphasis as it does  {{< br >}}  {{< br >}}Why does Dante put Ulysses in hell? Does something in the form or tone pass judgment on him? |
-| 2 | Pastoralism: Genre (derived from Greek Models)  {{< br >}}  {{< br >}}Is "The Pastoral" in fact a sophisticated form? |
-| 3 | Pastoralism and Gender  {{< br >}}  {{< br >}}Do women use language differently than men do? Tone, diction, form |
-| 4 | Renaissance "wit" and Renaissance metaphors (the 'conceit')  {{< br >}}  {{< br >}}"My America": Renaissance sonnet-cycles, readership, publication, and Circulation |
-| 5 | Donne's arguments  {{< br >}}  {{< br >}}Marvell's logic: syllogism and the blandishments of tone  {{< br >}}  {{< br >}}Marvell's irony |
-| 6 | How the sonnet works (8 and 6 / thesis and antithesis / question and answer)  {{< br >}}  {{< br >}}Shakespeare and the Socratic concept of seduction  {{< br >}}  {{< br >}}Close reading of several sonnets |
-| 7 | Resisting the biographical narrative  {{< br >}}  {{< br >}}Embedded sonnets in _Romeo and Juliet_  {{< br >}}  {{< br >}}Begin the play: civil disorder and children's obedience |
-| 8 | The ballroom scene and the metaphors of pilgrimage  {{< br >}}  {{< br >}}Compare ballroom and balcony scenes in several films of the play (Including Franco Zefferelli and Baz Luhrmann) |
-| 9 | Why is Juliet smarter than Romeo?  {{< br >}}  {{< br >}}Christian Sacrifice and Comic Reconciliation |
-| 10 | Keats and the Truth of the Heart's \[Art's?\] Affection  {{< br >}}  {{< br >}}Who says the last lines of the "Urn" and why does the question matter?  {{< br >}}  {{< br >}}Dickinson, "I lived for Art" and the Keatsian model |
-| 11 | Satan's persuasive rhetoric: read Satan's speeches  {{< br >}}  {{< br >}}Milton's Satan and transverse logic  {{< br >}}  {{< br >}}Milton's problem: Theology _versus_ Aesthetic form |
-| 12 | Milton's Eve and the Freedom of Choice / Eve's narcissism  {{< br >}}  {{< br >}}"The Fall" and what happens to the natural world?  {{< br >}}  {{< br >}}Adam's ironic love-song at the moment Eve falls |
-| 13 | Wordsworth: reclaiming paradise  {{< br >}}  {{< br >}}Blake: reclaiming innocence  {{< br >}}  {{< br >}}Blake: Vision and illustration  {{< br >}}  {{< br >}}"Lamb" and catechetics |
-| 14 | Blake: compare "The Lamb" and "The Tyger"  {{< br >}}  {{< br >}}The grammar of "The Tyger"  {{< br >}}  {{< br >}}Why is the Tyger smiling? |
-| 15 | Shelley's Platonism and Romantic self-assertion |
-| 16 | The Monster's literary education  {{< br >}}  {{< br >}}How does the Creature become the Monster? |
-| 17 | Frame narratives in the novel  {{< br >}}  {{< br >}}"Forbidden" knowledge?  {{< br >}}  {{< br >}}Frankenstein and pop culture |
-| 18 | Keats' Odes: The Natural World |
-| 19 | Keats' Odes: Art and Representation |
-| 20 | Keats' Odes: Time, Mortality, Repetition |
-| 21 | Sonnets! |
-| 22 | Browning and the secret self  {{< br >}}  {{< br >}}Tone and self-revelation |
-| 23 | "Home Burial" and Gender Difference  {{< br >}}  {{< br >}}Counting iambic pentameter: flexibility and social measurement |
-| 24 | Sincerity and authenticity  {{< br >}}  {{< br >}}Why does Lionel Trilling call Frost a "terrifying" poet? |
-| 25 | Close reading of Prufrock, focusing on form |
-| 26 | Close reading of Prufrock, focusing on images |
-| 27 | Plath's humor and Plath's form  {{< br >}}  {{< br >}}After modernism, what?
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Why metrics matter: the medium is the message  
+  
+Why English counts patterns of emphasis as it does  
+  
+Why does Dante put Ulysses in hell? Does something in the form or tone pass judgment on him?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Pastoralism: Genre (derived from Greek Models)  
+  
+Is "The Pastoral" in fact a sophisticated form?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Pastoralism and Gender  
+  
+Do women use language differently than men do? Tone, diction, form
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Renaissance "wit" and Renaissance metaphors (the 'conceit')  
+  
+"My America": Renaissance sonnet-cycles, readership, publication, and Circulation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Donne's arguments  
+  
+Marvell's logic: syllogism and the blandishments of tone  
+  
+Marvell's irony
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+How the sonnet works (8 and 6 / thesis and antithesis / question and answer)  
+  
+Shakespeare and the Socratic concept of seduction  
+  
+Close reading of several sonnets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Resisting the biographical narrative  
+  
+Embedded sonnets in _Romeo and Juliet_  
+  
+Begin the play: civil disorder and children's obedience
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The ballroom scene and the metaphors of pilgrimage  
+  
+Compare ballroom and balcony scenes in several films of the play (Including Franco Zefferelli and Baz Luhrmann)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Why is Juliet smarter than Romeo?  
+  
+Christian Sacrifice and Comic Reconciliation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Keats and the Truth of the Heart's \[Art's?\] Affection  
+  
+Who says the last lines of the "Urn" and why does the question matter?  
+  
+Dickinson, "I lived for Art" and the Keatsian model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Satan's persuasive rhetoric: read Satan's speeches  
+  
+Milton's Satan and transverse logic  
+  
+Milton's problem: Theology _versus_ Aesthetic form
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Milton's Eve and the Freedom of Choice / Eve's narcissism  
+  
+"The Fall" and what happens to the natural world?  
+  
+Adam's ironic love-song at the moment Eve falls
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wordsworth: reclaiming paradise  
+  
+Blake: reclaiming innocence  
+  
+Blake: Vision and illustration  
+  
+"Lamb" and catechetics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Blake: compare "The Lamb" and "The Tyger"  
+  
+The grammar of "The Tyger"  
+  
+Why is the Tyger smiling?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Shelley's Platonism and Romantic self-assertion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Monster's literary education  
+  
+How does the Creature become the Monster?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Frame narratives in the novel  
+  
+"Forbidden" knowledge?  
+  
+Frankenstein and pop culture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Keats' Odes: The Natural World
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Keats' Odes: Art and Representation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Keats' Odes: Time, Mortality, Repetition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Sonnets!
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Browning and the secret self  
+  
+Tone and self-revelation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+"Home Burial" and Gender Difference  
+  
+Counting iambic pentameter: flexibility and social measurement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Sincerity and authenticity  
+  
+Why does Lionel Trilling call Frost a "terrifying" poet?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Close reading of Prufrock, focusing on form
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Close reading of Prufrock, focusing on images
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Plath's humor and Plath's form  
+  
+After modernism, what?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
